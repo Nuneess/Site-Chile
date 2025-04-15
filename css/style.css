@@ -1,0 +1,14 @@
+.hero {
+    background-image: url('/img/Chile_Santiago_Houses_Mountains_Clouds_537525_1920x1080.jpg'); /* Substitua pelo link da sua imagem */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 20px;
+    height: 700px;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body{
+    max-width: 100%;
+  }
